@@ -1,0 +1,17 @@
+#! /bin/bash
+
+# ECHO COMMAND
+echo Hello World!
+
+# VARIABLES
+# Uppercase by convention
+# Letter, numbers, underscores
+NAME="Prasad"
+echo "My name is ${NAME}"
+
+# USER INPUT
+read -p "Enter your name : " NAME
+echo "Hello $NAME, nice to meet you!"
+
+$ SIMPLE IF STATEMENT
+if [""]
